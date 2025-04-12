@@ -16,9 +16,9 @@ Upewnij się, że podczas instalacji zaznaczyłeś opcję **"Add Python to PATH"
 ### 2. **Biblioteki Python**
 
 
-pip install openai-whisper
-pip install streamlit
-choco install ffmpeg - w powershell
+##pip install openai-whisper
+##pip install streamlit
+##choco install ffmpeg - w powershell
 
-Wejdź do lokalizacji pliku w cmd i wpisz:
-streamlit run Translator.py
+##Wejdź do lokalizacji pliku w cmd i wpisz:
+##streamlit run Translator.py
